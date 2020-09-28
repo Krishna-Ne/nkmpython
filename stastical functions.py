@@ -32,6 +32,7 @@ ages = [5,31,43,48,50,41,7,11,15,39,80,82,32,2,8,6,25,36,27,61,31,73,97,13]
 x = numpy.percentile(ages, 75)
 
 #print("Percentilie");print(x)
+# testing branch
 
 #cGenerate a random normal distribution of size 2x3:
 #loc - (Mean) where the peak of the bell exists.scale - (Standard Deviation) how flat the graph distribution should be.size - The shape of the returned array.
